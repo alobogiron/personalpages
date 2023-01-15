@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: teste
 ---
+
+<h1>{{ page.title }} </h1>
