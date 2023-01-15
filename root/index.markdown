@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: teste
+title: Testado
 ---
 
-<h1>{{ page.title }} </h1>
+<h1>Welcome, my name is {{ site.twitter_username }}! </h1>
